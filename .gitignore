@@ -1,0 +1,7 @@
+projects/
+in/*
+!in/.gitkeep
+.DS_Store
+__pycache__/
+.hyperframes/
+snaps/
